@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Ryan Loh
 
-![Profile views](https://gpvc.arturio.dev/ryanlohyr) ![GitHub followers](https://img.shields.io/github/followers/ryanlohyr?style=social)
+<!--
+![Profile views](https://gpvc.arturio.dev/ryanlohyr) 
+-->
+
+![GitHub followers](https://img.shields.io/github/followers/ryanlohyr?style=social)
 
 Started learning about programming during my National Service and love exploring new opportunities and technologies in my free time!
 
