@@ -24,7 +24,7 @@ Here are some of my notable projects:
 
 Feel free to reach out to me if you need any assistance or just want to chat about coding.
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ryanlohyr/)
+- LinkedIn: [ryanlohyr](https://www.linkedin.com/in/ryanlohyr/)
 - Email: ryanloh29@gmail.com
 
 <!--
